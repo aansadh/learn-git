@@ -1,0 +1,2 @@
+This file is not expected to cause any
+conflict with the other file.
